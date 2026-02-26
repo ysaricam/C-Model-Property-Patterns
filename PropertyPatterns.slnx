@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Benchmarks/">
+    <Project Path="src/Benchmarks/PropertyPatterns.Benchmarks.csproj" />
+  </Folder>
+  <Folder Name="/src/Models/">
+    <Project Path="src/Models/PropertyPatterns.Models.csproj" />
+  </Folder>
+  <Folder Name="/src/Tests/">
+    <Project Path="src/Tests/PropertyPatterns.Tests.csproj" />
+  </Folder>
+</Solution>
